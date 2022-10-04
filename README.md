@@ -2,6 +2,6 @@
 Web Scrawling Amazon.com using Python
 
 
-Understanding : main.ipynb
+Understanding : Understand.ipynb
 
-Final Code : main2.ipynb
+Final Code : Final.ipynb
